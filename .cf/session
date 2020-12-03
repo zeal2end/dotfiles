@@ -1,0 +1,68 @@
+{
+  "cookies": {
+    "codeforces.com": {
+      "codeforces.com;/;39ce7": {
+        "Name": "39ce7",
+        "Value": "CFDOVM2p",
+        "Domain": "codeforces.com",
+        "Path": "/",
+        "SameSite": "",
+        "Secure": false,
+        "HttpOnly": false,
+        "Persistent": true,
+        "HostOnly": true,
+        "Expires": "2020-12-15T06:54:24.037561922+05:30",
+        "Creation": "2020-12-03T17:07:44.037561922+05:30",
+        "LastAccess": "2020-12-03T17:07:44.347080327+05:30"
+      },
+      "codeforces.com;/;JSESSIONID": {
+        "Name": "JSESSIONID",
+        "Value": "FDBBDB08F2FADC760DB82178E19F54FE-n1",
+        "Domain": "codeforces.com",
+        "Path": "/",
+        "SameSite": "",
+        "Secure": false,
+        "HttpOnly": true,
+        "Persistent": false,
+        "HostOnly": true,
+        "Expires": "9999-12-31T23:59:59Z",
+        "Creation": "2020-12-03T17:07:44.037561922+05:30",
+        "LastAccess": "2020-12-03T17:07:44.347080327+05:30"
+      },
+      "codeforces.com;/;X-User": {
+        "Name": "X-User",
+        "Value": "c22cd421a63088841cfea45af54d14229f3327dec81225b933275cafe9974c114a41cc3dfe8ac020",
+        "Domain": "codeforces.com",
+        "Path": "/",
+        "SameSite": "",
+        "Secure": false,
+        "HttpOnly": false,
+        "Persistent": true,
+        "HostOnly": true,
+        "Expires": "2021-01-02T17:07:44.347011575+05:30",
+        "Creation": "2020-12-03T17:07:44.347011575+05:30",
+        "LastAccess": "2020-12-03T17:07:44.347080327+05:30"
+      },
+      "codeforces.com;/;X-User-Sha1": {
+        "Name": "X-User-Sha1",
+        "Value": "b62205dc4aeae84c0a48d952916bf525424a65a7",
+        "Domain": "codeforces.com",
+        "Path": "/",
+        "SameSite": "",
+        "Secure": false,
+        "HttpOnly": false,
+        "Persistent": true,
+        "HostOnly": true,
+        "Expires": "2021-12-03T17:07:44.347011575+05:30",
+        "Creation": "2020-12-03T17:07:44.347011575+05:30",
+        "LastAccess": "2020-12-03T17:07:44.347080327+05:30"
+      }
+    }
+  },
+  "handle": "Z.e.a.l",
+  "handle_or_email": "vyvivekkumar@gmail.com",
+  "password": "a9d14b8eae79ea90ed10f7195583efcdeb329ef4b9de02f272245d8ae008fec1ef094b82387c04c89624e2",
+  "ftaa": "llngzieyoh43e0133o",
+  "bfaa": "f1b3f18c715565b589b7823cda7448ce",
+  "last_submission": null
+}

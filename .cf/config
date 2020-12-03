@@ -1,0 +1,26 @@
+{
+  "template": [
+    {
+      "alias": "cpp",
+      "lang": "54",
+      "path": "/home/drost/coding/.template/template.cpp",
+      "suffix": [
+        "cpp"
+      ],
+      "before_script": "g++ -Wall -Wextra $%path%$$%full%$ -o $%file%$ -std=c++17 -Ofast -DLOCAL -Wshadow -Wformat=2 -Wconversion -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC -D_FORTIFY_SOURCE=2 -fsanitize=address -fsanitize=undefined -fno-sanitize-recover -fstack-protector",
+      "script": "./$%file%$",
+      "after_script": "rm $%file%$"
+    }
+  ],
+  "default": 0,
+  "gen_after_parse": true,
+  "host": "https://codeforces.com",
+  "proxy": "",
+  "folder_name": {
+    "acmsguru": "acmsguru",
+    "contest": "contests",
+    "group": "groups",
+    "gym": "gym",
+    "root": "coding"
+  }
+}
