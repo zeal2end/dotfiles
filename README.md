@@ -9,7 +9,7 @@ Terminal plugin : oh-my-zsh
 Terminal theme : agnoster
 
 :git commands 
-git init //to initialize
+git init //to initialize \n
 git add "file names or * for all" // to add files in git repo
 git commit -m "massage" // to commit your files
 git remote add "url" // to add the repo from github for further process
